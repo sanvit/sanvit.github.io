@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jaewon Kim</title>
-    <link>https://blog.sanvit.me/index.xml</link>
-    <description>Recent content on Jaewon Kim</description>
+    <title>My Blog</title>
+    <link>httpss://blog.sanvit.me/index.xml</link>
+    <description>Recent content on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <managingEditor>sanvit@sanvit.me (Jaewon Kim)</managingEditor>
-    <webMaster>sanvit@sanvit.me (Jaewon Kim)</webMaster>
-    <copyright>© 2017 Jaewon Kim.</copyright>
-    <atom:link href="https://blog.sanvit.me/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2017 Jaewon Kim. All rights reserved.</copyright>
+    <atom:link href="#ZgotmplZ" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
